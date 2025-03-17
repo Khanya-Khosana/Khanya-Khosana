@@ -1,6 +1,6 @@
 # 👋 About Me: Khanya Khosana  
 
-## 🚀 Aspiring Data Scientist | Mathematics & Statistics Enthusiast  
+## 🚀 Aspiring Data Scientist/Analyst | Mathematics & Statistics Enthusiast  
 
 Hi! I'm **Khanya Khosana**, a final year university student majoring in **Statistics and Computer Science**. I'm passionate about **data science, machine learning, and statistical analysis**, with a strong foundation in **mathematics, programming, and data analytics**.  
 
